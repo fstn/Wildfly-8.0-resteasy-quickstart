@@ -57,3 +57,19 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+RestEasyAPI/.settings/.jsdtscope
+*.jsdtscope
+RestEasyAPI/.settings/org.eclipse.jdt.core.prefs
+*.prefs
+RestEasyAPI/.settings/org.eclipse.wst.common.component
+*.container
+RestEasyAPI/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.name
+RestEasyAPI/.project
+*.classpath
+*.lst
+RestEasyDAO/.classpath
+*.project
+RestEasyDAO/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.xml
+*.component
